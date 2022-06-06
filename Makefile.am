@@ -7,6 +7,7 @@ langage_c_SOURCES = \
     src/app/app5/ccacu050.c src/app/app5/ccacu050.h \
     src/app/app6/ccacu060.c src/app/app6/ccacu060.h \
     src/app/app7/ccacu070.c src/app/app7/ccacu070.h \
+    src/app/app8/ccacu080.c src/app/app8/ccacu080.h \
     src/proj/liste.c src/proj/liste.h
 
 langage_c_CFLAGS =

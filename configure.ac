@@ -32,6 +32,7 @@ AC_CONFIG_LINKS([
     etudiants.dat:data/etudiants.dat
     points.dat:data/points.dat
     liste.dat:data/liste.dat
+    cinema.dat:data/cinema.dat
 ])
 
 LIBS="$LIBS $PTHREAD_LIBS"
